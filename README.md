@@ -1,2 +1,2 @@
 # PHP-CRUD-MYSQL-MVC-Bootstrap
-CRUD aplicación web con PHP y MYSQL
+CRUD web application with PHP and MYSQL
