@@ -16,7 +16,7 @@ class DB{
 
             $optionsPDO[PDO::ATTR_ERRMODE]= PDO::ERRMODE_EXCEPTION;
 
-            self::$instance = new PDO('mysql:host=localhost;dbname=crudpmb','root','paula', $optionsPDO);
+            self::$instance = new PDO('mysql:host=;dbname=','','', $optionsPDO);
 
         }
         return self::$instance;
